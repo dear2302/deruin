@@ -1,0 +1,17 @@
+body {background-color:rgb(40, 40, 40);}
+h1   {color: white;
+      font-family: corbel;
+	  font-size: 300%;}
+p    {color: white;
+	  font-family: corbel;
+      font-size: 200%;
+	  margin: 100px;}
+	  
+body {
+  margin: 0;
+  }
+ 
+.header {
+    background-color:rgb(60, 60, 60);
+    padding: 10px;
+}
